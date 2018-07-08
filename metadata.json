@@ -1,0 +1,18 @@
+{
+  "name": "foued-ssh",
+  "version": "0.1.0",
+  "author": "foued benzaid <benzaid.foued@gmail.com>",
+  "summary": "This module will manage ssh on Puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/benzaidfoued/Puppet-SSH-Module-",
+  "project_page": "https://github.com/benzaidfoued/Puppet-SSH-Module-",
+  "issues_url": "https://github.com/benzaidfoued/Puppet-SSH-Module-/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
